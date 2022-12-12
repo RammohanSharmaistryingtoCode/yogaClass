@@ -1,0 +1,17 @@
+com\example\yogaclass\models\Bookings$BookingsBuilder.class
+com\example\yogaclass\models\Customer$CustomerBuilder.class
+com\example\yogaclass\repository\BookingsRepository.class
+com\example\yogaclass\models\Customer.class
+com\example\yogaclass\CorsConfig.class
+com\example\yogaclass\YogaclassApplication.class
+com\example\yogaclass\commons\YogaClassesResponse.class
+com\example\yogaclass\service\BookingService.class
+com\example\yogaclass\controller\YogaClassController.class
+com\example\yogaclass\models\Classes.class
+com\example\yogaclass\models\dto\ClassesDto.class
+com\example\yogaclass\models\dto\CustomerBookingDTO.class
+com\example\yogaclass\repository\CustomerRepository.class
+com\example\yogaclass\models\Classes$ClassesBuilder.class
+com\example\yogaclass\models\Bookings.class
+com\example\yogaclass\models\dto\CustomerDTO.class
+com\example\yogaclass\repository\ClassesRepository.class
