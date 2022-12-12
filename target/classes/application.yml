@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:postgresql://dumbo.db.elephantsql.com:5432/tjnjoemv?assumeMinServerVersion=9.4
+    password: c8wwNIBMaROfesXj6V8lcJ3sqbptwrAk
+    username: tjnjoemv
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    generate-ddl: true
